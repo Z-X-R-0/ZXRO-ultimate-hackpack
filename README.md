@@ -9,24 +9,22 @@
 ### 🔦 **IR (Infrared Tools)**  
 - Decode and analyze infrared signals from remotes or IoT devices.  
 - Emulate or intercept IR communications for testing purposes.  
-> **Note:** It is **preferred to use Bruce Firmware** for enhanced performance and compatibility with these scripts.  
+
 
 
 ### 🌐 **Evil Portal**  
 - Build captivating **captive portals** to simulate phishing attacks or social engineering scenarios.  
 - Perfect for Wi-Fi testing and credential harvesting experiments (with consent!).  
-> **Note:** Bruce Firmware is recommended for optimal operation of this tool.  
 
 
 ### 📻 **Radio Frequencies (RF)**  
 - Unlock the power of SDR (Software-Defined Radio) to explore RF communication.  
 - Hack into the wireless world of IoT, garage remotes, and more.  
-> **Note:** Bruce Firmware will provide better flexibility and support for these RF scripts.  
+
 
 ### 📶 **Bad BLE (Bluetooth Low Energy)**  
 - Test Bluetooth Low Energy devices for vulnerabilities.  
 - Dive into IoT device penetration testing with specialized BLE tools.  
-> **Note:** It's **preferred to use Bruce Firmware** for full compatibility with BLE scripts.  
 
 
 ### 🛠️ **M5Stick + Bruce Firmware**  
