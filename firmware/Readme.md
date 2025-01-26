@@ -7,7 +7,7 @@ To install **Bruce** 🐾, **Cathack** 🐱, or **Nemo** 🐟, you have two opti
 1. Visit the repositories:
    - **Bruce**: [GitHub Repository](https://github.com/pr3y/Bruce) 🌐
    - **Cathack**: [GitHub Repository](https://github.com/pr3y/Cathack) 🐾
-   - **Nemo**: [GitHub Repository](https://github.com/pr3y/Nemo) 🌊
+   - **Nemo**: [GitHub Repository](https://github.com/n0xa/m5stick-nemo/) 🌊
 
 2. Check the README for setup instructions 📜.
 3. Clone the repositories and install them on your device 🖥️.
