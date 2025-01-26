@@ -1,0 +1,3 @@
+REM creator: ZXRO
+GUI e
+REPEAT 99999999

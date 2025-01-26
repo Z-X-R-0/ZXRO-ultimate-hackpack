@@ -1,0 +1,7 @@
+REM creator: ZXRO
+REM
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://github.com/Z-X-R-0/ZXRO-ultimate-hackpack/tree/main
+ENTER
