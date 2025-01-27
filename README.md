@@ -45,9 +45,9 @@ This repository is strictly for **educational purposes only**. Always ensure you
 ---
 
 ## **Source** 
-#1. Evil-Portal: @FlippieHacks @bigbrodude6119
-#2. ir: @Lucaslhm
-#3. RF: @UberGuidoZ
-#4. Wiring-Diagrams: oficial BRUCE firm (@pr3y)
-#5. Bad-BLE: @I-Am-Jakoby @veroleone
-#6. Boot-Images: BRUCE discord server
+1. Evil-Portal: @FlippieHacks @bigbrodude6119
+2. ir: @Lucaslhm
+3. RF: @UberGuidoZ
+4. Wiring-Diagrams: oficial BRUCE firm (@pr3y)
+5. Bad-BLE: @I-Am-Jakoby @veroleone
+6. Boot-Images: BRUCE discord server
